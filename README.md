@@ -45,7 +45,7 @@ Este documento HTML representa um formulário simples de login para registro de 
 
 ## JavaScript
 
-- **index.js**: Arquivo JavaScript para lidar com a submissão do formulário. A função real `abrirWhatsapp()` não está fornecida no trecho de código.
+- **index.js**: Arquivo JavaScript para lidar com a submissão do formulário. A função real `abrirWhatsapp()` é fornecida no arquivo JavaScript externo.
 
 ## Uso
 
