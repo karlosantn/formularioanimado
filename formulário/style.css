@@ -87,7 +87,7 @@ section .signin .content
 }
 section .signin .content h2 
 {
-	font-size: 1.5em;
+	font-size: 2em;
 	color: rgb(0, 225, 255);
 	text-transform: uppercase;
 }
@@ -150,7 +150,7 @@ section .signin .content .form .inputBox i
 	color: rgb(0, 225, 255);
 	font-weight: 600;
 }
-.signin .content .form .inputBox input[type="button"]
+.signin .content .form .inputBox input[type="submit"]
 {
 	padding: 10px;
 	background: rgb(0, 225, 255);
@@ -166,7 +166,7 @@ section .signin .content .form .inputBox i
 	font-weight: 500;
 	font-size: 0.8em;
 }
-input[type="button"]:active
+input[type="submit"]:active
 {
 	opacity: 0.6;
 }
