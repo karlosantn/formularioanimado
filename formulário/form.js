@@ -4,7 +4,7 @@ function abrirWhatsapp() {
     var email = document.getElementById("email").value;
     var cpf = document.getElementById("cpf").value;
     var idade = document.getElementById("idade").value;
-    var url = "https://wa.me/+5531997657736?text="
+    var url = "https://wa.me/+553131576232?text="
       + "*Inscrição Curso Desenvolvimento Web*" + "%0a"
       + "%0a"
       + "*Nome*: " + nome + "%0a"
